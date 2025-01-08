@@ -24,11 +24,6 @@ function frmLogin(e) {
     }
 }
 
-function loginEstudiantes(e){
-    e.preventDefault();
-    window.location = base_url + "Home/loginEstudiantes";
-}
-
 function login(e){
     e.preventDefault();
     window.location = base_url;

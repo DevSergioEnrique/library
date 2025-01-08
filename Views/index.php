@@ -32,7 +32,7 @@
                 </div>
                 <div class="form-group btn-container">
                     <button class="btn btn-primary btn-block" type="submit"><i class="fa fa-sign-in fa-lg fa-fw"></i>Login</button>
-                    <button class="btn btn-primary btn-block" type="button" onclick="loginEstudiantes(event);"><i class="fa fa-sign-in fa-lg fa-fw"></i>Soy estudiante</button>
+
                 </div>
             </form>
         </div>
